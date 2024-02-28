@@ -1,0 +1,15 @@
+{
+    "brightness": 100,
+    "cursor": 1,
+    "developMode": true,
+    "fps": true,
+    "fpslimite": 100,
+    "fpslimited": false,
+    "language": "English",
+    "musicOn": false,
+    "musicVolume": 1.0,
+    "particles": 2,
+    "soundOn": true,
+    "soundVolume": 0.28,
+    "version": true
+}
